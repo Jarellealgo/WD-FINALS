@@ -133,5 +133,5 @@ WD-Finals-Portfolio/
 | Title | Purpose | Link | Grade |
 |-|-|-|-|
 
-| WD-Finals | Portfolio Website | N/A | TBD | 
+| WD-Finals | Portfolio Website | https://jarellealgo.github.io/WD-FINALS/ | TBD | 
 
